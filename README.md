@@ -29,3 +29,8 @@ This is a simple yet customizable Bash script designed to generate secure passwo
 ## Example output :
 ![pass_gen](https://github.com/user-attachments/assets/28609ac0-7c2b-4a46-aae5-b7db75b3f14c)
 
+git clone https://github.com/Gagann01/Linux-password-generator.git
+cd Linux-password-generator
+
+
+
